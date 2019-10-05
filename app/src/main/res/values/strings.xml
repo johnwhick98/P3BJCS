@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">P3BJCS</string>
+    <string name="descripcion">JohnWhick</string>
+    <string name="titulo">Mensaje de titulo de proyecto</string>
+    <string name="titulomenu">Menu Principal</string>
+    <string name="presentacion">proyecto</string>
+
+</resources>
